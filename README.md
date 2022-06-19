@@ -1,2 +1,2 @@
-# hello-world
-getting familiar with github
+# Github Tutorial
+I this project, I am getting familiar with github
